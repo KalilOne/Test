@@ -1,0 +1,672 @@
+[
+ {
+   "id": 1,
+   "label": "Nantes",
+   "parentId": null
+ },
+ {
+   "id": 2,
+   "label": "Lombarderie / Batiment 31",
+   "parentId": "1"
+ },
+ {
+   "id": 3,
+   "label": "EE23",
+   "parentId": "2"
+ },
+ {
+   "id": 4,
+   "label": "Armoire",
+   "parentId": "3"
+ },
+ {
+   "id": 5,
+   "label": "BAG",
+   "parentId": "3"
+ },
+ {
+   "id": 6,
+   "label": "Dessicateur",
+   "parentId": "3"
+ },
+ {
+   "id": 7,
+   "label": "EE24",
+   "parentId": "2"
+ },
+ {
+   "id": 8,
+   "label": "Armoire",
+   "parentId": "7"
+ },
+ {
+   "id": 9,
+   "label": "BAG",
+   "parentId": "7"
+ },
+ {
+   "id": 10,
+   "label": "EE25",
+   "parentId": "2"
+ },
+ {
+   "id": 11,
+   "label": "Armoire",
+   "parentId": "10"
+ },
+ {
+   "id": 12,
+   "label": "BAG",
+   "parentId": "10"
+ },
+ {
+   "id": 13,
+   "label": "EE26",
+   "parentId": "2"
+ },
+ {
+   "id": 14,
+   "label": "Placard",
+   "parentId": "13"
+ },
+ {
+   "id": 15,
+   "label": "EE36",
+   "parentId": "2"
+ },
+ {
+   "id": 16,
+   "label": "Armoire 1",
+   "parentId": "15"
+ },
+ {
+   "id": 17,
+   "label": "Armoire 2",
+   "parentId": "15"
+ },
+ {
+   "id": 18,
+   "label": "Armoire 3",
+   "parentId": "15"
+ },
+ {
+   "id": 19,
+   "label": "Armoire 4",
+   "parentId": "15"
+ },
+ {
+   "id": 20,
+   "label": "PCM",
+   "parentId": "2"
+ },
+ {
+   "id": 21,
+   "label": "Armoire",
+   "parentId": "20"
+ },
+ {
+   "id": 22,
+   "label": "RCE69",
+   "parentId": "2"
+ },
+ {
+   "id": 23,
+   "label": "BAG1",
+   "parentId": "22"
+ },
+ {
+   "id": 24,
+   "label": "BAG2",
+   "parentId": "22"
+ },
+ {
+   "id": 25,
+   "label": "BAG3",
+   "parentId": "22"
+ },
+ {
+   "id": 26,
+   "label": "RCE70",
+   "parentId": "2"
+ },
+ {
+   "id": 27,
+   "label": "Armoire Droite",
+   "parentId": "26"
+ },
+ {
+   "id": 28,
+   "label": "Armoire Gauche",
+   "parentId": "26"
+ },
+ {
+   "id": 29,
+   "label": "RCE72",
+   "parentId": "2"
+ },
+ {
+   "id": 30,
+   "label": "Armoire",
+   "parentId": "29"
+ },
+ {
+   "id": 31,
+   "label": "Armoire Solvant",
+   "parentId": "29"
+ },
+ {
+   "id": 32,
+   "label": "Dessicateur/BAG",
+   "parentId": "29"
+ },
+ {
+   "id": 33,
+   "label": "RCO32",
+   "parentId": "2"
+ },
+ {
+   "id": 34,
+   "label": "Armoire",
+   "parentId": "33"
+ },
+ {
+   "id": 35,
+   "label": "BAG",
+   "parentId": "33"
+ },
+ {
+   "id": 36,
+   "label": "Frigo",
+   "parentId": "33"
+ },
+ {
+   "id": 37,
+   "label": "Placard (non ventilé)",
+   "parentId": "33"
+ },
+ {
+   "id": 38,
+   "label": "RJE29 : sulfu",
+   "parentId": "2"
+ },
+ {
+   "id": 39,
+   "label": "Armoire Droite",
+   "parentId": "38"
+ },
+ {
+   "id": 40,
+   "label": "Armoire Gauche",
+   "parentId": "38"
+ },
+ {
+   "id": 41,
+   "label": "RJE30",
+   "parentId": "2"
+ },
+ {
+   "id": 42,
+   "label": "Placard",
+   "parentId": "41"
+ },
+ {
+   "id": 43,
+   "label": "RJE34",
+   "parentId": "2"
+ },
+ {
+   "id": 44,
+   "label": "Armoire",
+   "parentId": "43"
+ },
+ {
+   "id": 45,
+   "label": "BAG",
+   "parentId": "43"
+ },
+ {
+   "id": 46,
+   "label": "RJE39-40",
+   "parentId": "2"
+ },
+ {
+   "id": 47,
+   "label": "Armoire 1",
+   "parentId": "46"
+ },
+ {
+   "id": 48,
+   "label": "Armoire 2",
+   "parentId": "46"
+ },
+ {
+   "id": 49,
+   "label": "Dessicateur",
+   "parentId": "46"
+ },
+ {
+   "id": 50,
+   "label": "Placard",
+   "parentId": "46"
+ },
+ {
+   "id": 51,
+   "label": "RJE40Bis",
+   "parentId": "2"
+ },
+ {
+   "id": 52,
+   "label": "Armoire 1",
+   "parentId": "51"
+ },
+ {
+   "id": 53,
+   "label": "Armoire 2",
+   "parentId": "51"
+ },
+ {
+   "id": 54,
+   "label": "Armoire 3",
+   "parentId": "51"
+ },
+ {
+   "id": 55,
+   "label": "RJE49",
+   "parentId": "2"
+ },
+ {
+   "id": 56,
+   "label": "Frigo 1",
+   "parentId": "55"
+ },
+ {
+   "id": 57,
+   "label": "Frigo 2",
+   "parentId": "55"
+ },
+ {
+   "id": 58,
+   "label": "RJO15",
+   "parentId": "2"
+ },
+ {
+   "id": 59,
+   "label": "Armoire",
+   "parentId": "58"
+ },
+ {
+   "id": 60,
+   "label": "RJO17-18",
+   "parentId": "2"
+ },
+ {
+   "id": 61,
+   "label": "Armoire",
+   "parentId": "60"
+ },
+ {
+   "id": 62,
+   "label": "Rennes",
+   "parentId": null
+ },
+ {
+   "id": 63,
+   "label": "4",
+   "parentId": "62"
+ },
+ {
+   "id": 64,
+   "label": "211",
+   "parentId": "63"
+ },
+ {
+   "id": 65,
+   "label": "congélateur",
+   "parentId": "64"
+ },
+ {
+   "id": 66,
+   "label": "étagère",
+   "parentId": "64"
+ },
+ {
+   "id": 67,
+   "label": "frigo",
+   "parentId": "64"
+ },
+ {
+   "id": 68,
+   "label": "318",
+   "parentId": "63"
+ },
+ {
+   "id": 69,
+   "label": "-80°C",
+   "parentId": "68"
+ },
+ {
+   "id": 70,
+   "label": "335/1",
+   "parentId": "63"
+ },
+ {
+   "id": 71,
+   "label": "armoire solvant sous sorbonne",
+   "parentId": "70"
+ },
+ {
+   "id": 72,
+   "label": "armoire ventilée CMR bas",
+   "parentId": "70"
+ },
+ {
+   "id": 73,
+   "label": "armoire ventilée CMR haut",
+   "parentId": "70"
+ },
+ {
+   "id": 74,
+   "label": "armoire ventilée Corrosifs",
+   "parentId": "70"
+ },
+ {
+   "id": 75,
+   "label": "armoire ventilée solvant",
+   "parentId": "70"
+ },
+ {
+   "id": 76,
+   "label": "étagère",
+   "parentId": "70"
+ },
+ {
+   "id": 77,
+   "label": "340",
+   "parentId": "63"
+ },
+ {
+   "id": 78,
+   "label": "congélateur",
+   "parentId": "77"
+ },
+ {
+   "id": 79,
+   "label": "étagère",
+   "parentId": "77"
+ },
+ {
+   "id": 80,
+   "label": "frigo",
+   "parentId": "77"
+ },
+ {
+   "id": 81,
+   "label": "placard",
+   "parentId": "77"
+ },
+ {
+   "id": 82,
+   "label": "344",
+   "parentId": "63"
+ },
+ {
+   "id": 83,
+   "label": "Magasin",
+   "parentId": "82"
+ },
+ {
+   "id": 84,
+   "label": "Roscoff",
+   "parentId": null
+ },
+ {
+   "id": 85,
+   "label": "IGM",
+   "parentId": "84"
+ },
+ {
+   "id": 86,
+   "label": "RDC",
+   "parentId": "85"
+ },
+ {
+   "id": 87,
+   "label": "Laber",
+   "parentId": "84"
+ },
+ {
+   "id": 88,
+   "label": "RDC",
+   "parentId": "87"
+ },
+ {
+   "id": 89,
+   "label": "YD-GT",
+   "parentId": "84"
+ },
+ {
+   "id": 90,
+   "label": "123",
+   "parentId": "89"
+ },
+ {
+   "id": 91,
+   "label": "Armoire poisons",
+   "parentId": "90"
+ },
+ {
+   "id": 92,
+   "label": "129",
+   "parentId": "89"
+ },
+ {
+   "id": 93,
+   "label": "Armoire 1 E1",
+   "parentId": "92"
+ },
+ {
+   "id": 94,
+   "label": "Armoire 1 E2",
+   "parentId": "92"
+ },
+ {
+   "id": 95,
+   "label": "Armoire 1 E3",
+   "parentId": "92"
+ },
+ {
+   "id": 96,
+   "label": "Armoire 1 E4",
+   "parentId": "92"
+ },
+ {
+   "id": 97,
+   "label": "Armoire 1 E5",
+   "parentId": "92"
+ },
+ {
+   "id": 98,
+   "label": "Armoire 1 E6",
+   "parentId": "92"
+ },
+ {
+   "id": 99,
+   "label": "Armoire 2 E10",
+   "parentId": "92"
+ },
+ {
+   "id": 100,
+   "label": "Armoire 2 E11",
+   "parentId": "92"
+ },
+ {
+   "id": 101,
+   "label": "Armoire 2 E12",
+   "parentId": "92"
+ },
+ {
+   "id": 102,
+   "label": "Armoire 2 E8",
+   "parentId": "92"
+ },
+ {
+   "id": 103,
+   "label": "Armoire 2 E9",
+   "parentId": "92"
+ },
+ {
+   "id": 104,
+   "label": "132",
+   "parentId": "89"
+ },
+ {
+   "id": 105,
+   "label": "Congelateur Boite 1",
+   "parentId": "104"
+ },
+ {
+   "id": 106,
+   "label": "204",
+   "parentId": "89"
+ },
+ {
+   "id": 107,
+   "label": "Congelateur Boite 2",
+   "parentId": "106"
+ },
+ {
+   "id": 108,
+   "label": "206",
+   "parentId": "89"
+ },
+ {
+   "id": 109,
+   "label": "Congelateur Boite 3",
+   "parentId": "108"
+ },
+ {
+   "id": 110,
+   "label": "207",
+   "parentId": "89"
+ },
+ {
+   "id": 111,
+   "label": "Congelateur Boite 4",
+   "parentId": "110"
+ },
+ {
+   "id": 112,
+   "label": "209",
+   "parentId": "89"
+ },
+ {
+   "id": 113,
+   "label": "Congelateur Boite 5",
+   "parentId": "112"
+ },
+ {
+   "id": 114,
+   "label": "210",
+   "parentId": "89"
+ },
+ {
+   "id": 115,
+   "label": "Congelateur Boite 6",
+   "parentId": "114"
+ },
+ {
+   "id": 116,
+   "label": "217",
+   "parentId": "89"
+ },
+ {
+   "id": 117,
+   "label": "Congelateur Boite 7",
+   "parentId": "116"
+ },
+ {
+   "id": 118,
+   "label": "223",
+   "parentId": "89"
+ },
+ {
+   "id": 119,
+   "label": "Congelateur Boite 8",
+   "parentId": "118"
+ },
+ {
+   "id": 120,
+   "label": "Université de Rennes",
+   "parentId": null
+ },
+ {
+   "id": 121,
+   "label": "11C",
+   "parentId": "120"
+ },
+ {
+   "id": 122,
+   "label": "RDC/030",
+   "parentId": "121"
+ },
+ {
+   "id": 123,
+   "label": "Armoire chimique",
+   "parentId": "122"
+ },
+ {
+   "id": 124,
+   "label": "Hotte",
+   "parentId": "122"
+ },
+ {
+   "id": 125,
+   "label": "RDC/031",
+   "parentId": "121"
+ },
+ {
+   "id": 126,
+   "label": "Réfrigérateur",
+   "parentId": "125"
+ },
+ {
+   "id": 127,
+   "label": "11E",
+   "parentId": "120"
+ },
+ {
+   "id": 128,
+   "label": "RDC BAS/902",
+   "parentId": "127"
+ },
+ {
+   "id": 129,
+   "label": "Armoire chimique",
+   "parentId": "128"
+ },
+ {
+   "id": 130,
+   "label": "Congélateur -20°C",
+   "parentId": "128"
+ },
+ {
+   "id": 131,
+   "label": "Congélateur -80°C",
+   "parentId": "128"
+ },
+ {
+   "id": 132,
+   "label": "Réfrigérateur",
+   "parentId": "128"
+ },
+ {
+   "id": 133,
+   "label": "RDC HAUT/002",
+   "parentId": "127"
+ },
+ {
+   "id": 134,
+   "label": "RDC HAUT/010",
+   "parentId": "127"
+ }
+]
